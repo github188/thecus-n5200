@@ -1,0 +1,1 @@
+smtp.gmail.com smtp --port=587 --auth-login --user=myblogbackup@gmail.com --pass=WordPress1! --starttls
